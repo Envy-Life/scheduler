@@ -1,16 +1,27 @@
-# scheduler
+# Scheduler
 
-A new Flutter project.
+Flutter Submission for Digital Trons
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+### Method 1 - Running on Desktop/Laptop
+**Requires Flutter and Emulator**
+* Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+ ~~~~
+git clone https://github.com/Envy-Life/scheduler.git
+~~~~
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ 
+ * Run using flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+~~~~
+cd scheduler
+flutter run --release
+~~~~
+
+### Method 2 - Running On mobile (Preferred for better performance)
+* Download scheduler.apk from [here](https://github.com/Envy-Life/scheduler/blob/main/Scheduler.apk).
+* Copy it to mobile phone (android) and run installer.
+* The app should be installed by the name scheduler
+
